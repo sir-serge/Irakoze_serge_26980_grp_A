@@ -21,7 +21,7 @@
         <input type="password" name="password" required><br><br>
 
         <input type="submit" value="Login">
-        <a href='index.jsp'>← Back to HOME</a>
+        <a href='index.jsp'>Back to HOME</a>
     </form>
 </body>
 </html>
