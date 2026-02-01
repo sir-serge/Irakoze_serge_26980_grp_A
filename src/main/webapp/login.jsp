@@ -7,6 +7,7 @@
         form { max-width: 300px; margin: 20px auto; }
         input { margin: 5px 0; padding: 8px; width: 100%; box-sizing: border-box; }
         input[type="submit"] { background-color: #007bff; color: white; cursor: pointer; }
+        a { display: inline-block; margin-top: 20px; padding: 12px 30px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s; }
     </style>
 </head>
 <body>
